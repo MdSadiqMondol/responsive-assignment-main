@@ -1,0 +1,83 @@
+body{
+     background-color: rgb(112, 128, 144);
+     box-sizing: border-box;
+
+}
+h1{
+    text-transform: uppercase;
+    font-family: sans;
+    font-size: 2.5rem;
+}
+p{
+    font-family: monospace;
+}
+h1 span{
+    color: orange;
+}
+h3{
+    margin-left: 20px;
+    color: lightblue;
+}
+h5{
+    text-align: center;
+    color: rgb(209, 181, 25);
+    font-size: 1.2rem;
+    font-weight: bold;
+    font-family: cursive;
+
+}
+/* nav start  */
+.mynavcolor{
+    background-color: rgb(75, 112, 133, .6);
+    border: 1px solid red;
+}
+.mynavcolor img {
+    width: 300px;
+    padding-left: 5px;
+}
+
+.mynavcolor .navbar a{
+    color: rgb(245, 222, 179);
+    border-radius: 5px;
+    text-align: center;
+}
+.mynavcolor  a:hover {
+    background-color: black;
+    border-radius: 5px;
+    font-size: 1rem;
+    color: white;
+}
+/* first banner start  */
+.firstbanner{
+    background-color:#FFF9F4;
+    border-radius: 10px;
+  
+}
+/* main start  */
+.bgrund{
+    
+    border-radius: 10px;
+    
+      
+}
+.cbgrund{
+    background-color: ghostwhite;
+    border: 2px dotted red;
+    padding: 0;
+}
+/* about start  */
+.cfind,
+.contact,
+.cfree {
+    margin: 10px;
+    background-color: #fff;
+    border-radius: 20px;
+}
+.c30{
+    width: 15%;
+    
+}
+.c70{
+    width: 70%;
+    margin: 5px;
+}
